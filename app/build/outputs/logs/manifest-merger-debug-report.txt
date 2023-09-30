@@ -1,0 +1,385 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\de3b40115ce37572ee7388b0bf240930\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\a7c1a6b05fe002c465bb48d3672020bc\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\8f3dffb71c96152b32538dda90e19de6\transformed\navigation-common-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\d74e36b9323ae0fd77d6fb0cad307f02\transformed\navigation-runtime-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5dd7ada93f770317cd8e5a595cba0351\transformed\navigation-common-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5bf78b9668ba499a52d71a648143f778\transformed\navigation-runtime-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\1330c709bfd7b1c2f269fc5948f990cc\transformed\navigation-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\Dima\.gradle\caches\transforms-3\e4e59732a90677c5bcfd807161d269cd\transformed\hilt-android-2.44\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ac2cb2f2d403d801e5b5893c9adcc5c7\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\54fa588c4187eebb1893bfb3377b65b1\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d43dfc3330f2ec2e8a13abb31c30f76c\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\08598b96a26aab0e7fcccde224048478\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\6062c41c3d2b2a8bb2e6fb341db1bd70\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\7613461b09cadfd960454960a13db6a1\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\9a40fbe743e596388f693ccc3ea4077e\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\87671bca736af61c7340cdd8e44b91f2\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\84febceb465cde1b66f72cf997cd6a66\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\687f751f77ea9dd5d23525581329873e\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\b9a99864681356dd20068868d82fbd00\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8f94fb1a659f59b96b45eaefbfe2f107\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\117e7765044ec63b0440d73d558953cc\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Dima\.gradle\caches\transforms-3\ad6ed8fbbeb1fdd0c3a097e17e83b865\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\b01acd08cf57a8c657198231dc1d1f4f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\7c2ebef0ebb75e6f8a5c529ae9e6fbd0\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\cb1eb042ce76c81a18716df9eab0b15e\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\877d538800b89b0ad42e155a2d501a64\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\16d4fa28e3bade80b4ef76b76b418366\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\a8c163e6acd636ef510c68b2b4d33281\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\147ec4c80ea567736310036b0c54bdbf\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\439b67504422e139f1007b6f4fb8b243\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8b9c48a23a928ae3788f8f13897ce511\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\25016a5607858d9b3ae03765425170d8\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\67e39bd5e61327f2e376e1ffefb0b35d\transformed\activity-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\45e3788e397db62dc2d267c1d8d2413e\transformed\activity-compose-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\f51ee4b2a039f2f43f574e8bf1f7e5f8\transformed\activity-ktx-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\5cbc2f472025e2878f564f3efa71b61c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\6a1e4b94839ad6e41b7e7e3b4730ac1b\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\109c5cdbdca1535517da74b014fc0152\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\183688527126aa933e37eec3d2af0ca1\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\117dd43d54048291faed5cd60151826f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\d3167d3bae220701c10b9b21104b8d5e\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\a659a842eb1251c99aac8cd9af4034f8\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\87c0365832f4e12ab1cf8a30b1c64343\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d50754e6f858b531790b8b73b45619f8\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ee87ec70448aabb0f03430d4ba7c6847\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\847e707ffeaf87898ab536c6c5e5a261\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\5605350f476e128708e4e67fca923b94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dima\.gradle\caches\transforms-3\775cb3222bd3c3e2bb1c552e1f78cc85\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\808a66f0e96307cad7c6c1a3af63828f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\b2666b32a9f69ad76532393415513d13\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\Dima\.gradle\caches\transforms-3\acbeeb093385613fd439b7471ce9ccff\transformed\dagger-lint-aar-2.44\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\5605350f476e128708e4e67fca923b94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\5605350f476e128708e4e67fca923b94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:15:9-47
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:9:9-37
+activity#ru.brazhnik.voicetext.MainActivity
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:17:9-31:20
+	android:label
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:21:13-51
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#android.app.lib_name
+ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:28:13-30:36
+	android:value
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:30:17-33
+	android:name
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml:29:17-52
+uses-sdk
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\de3b40115ce37572ee7388b0bf240930\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\de3b40115ce37572ee7388b0bf240930\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\a7c1a6b05fe002c465bb48d3672020bc\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\a7c1a6b05fe002c465bb48d3672020bc\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\8f3dffb71c96152b32538dda90e19de6\transformed\navigation-common-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\8f3dffb71c96152b32538dda90e19de6\transformed\navigation-common-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\d74e36b9323ae0fd77d6fb0cad307f02\transformed\navigation-runtime-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\d74e36b9323ae0fd77d6fb0cad307f02\transformed\navigation-runtime-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5dd7ada93f770317cd8e5a595cba0351\transformed\navigation-common-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5dd7ada93f770317cd8e5a595cba0351\transformed\navigation-common-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5bf78b9668ba499a52d71a648143f778\transformed\navigation-runtime-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\5bf78b9668ba499a52d71a648143f778\transformed\navigation-runtime-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\1330c709bfd7b1c2f269fc5948f990cc\transformed\navigation-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.0] C:\Users\Dima\.gradle\caches\transforms-3\1330c709bfd7b1c2f269fc5948f990cc\transformed\navigation-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\Dima\.gradle\caches\transforms-3\e4e59732a90677c5bcfd807161d269cd\transformed\hilt-android-2.44\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\Dima\.gradle\caches\transforms-3\e4e59732a90677c5bcfd807161d269cd\transformed\hilt-android-2.44\AndroidManifest.xml:18:3-42
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ac2cb2f2d403d801e5b5893c9adcc5c7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ac2cb2f2d403d801e5b5893c9adcc5c7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\54fa588c4187eebb1893bfb3377b65b1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\54fa588c4187eebb1893bfb3377b65b1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d43dfc3330f2ec2e8a13abb31c30f76c\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d43dfc3330f2ec2e8a13abb31c30f76c\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\08598b96a26aab0e7fcccde224048478\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\08598b96a26aab0e7fcccde224048478\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\6062c41c3d2b2a8bb2e6fb341db1bd70\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\6062c41c3d2b2a8bb2e6fb341db1bd70\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\7613461b09cadfd960454960a13db6a1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\7613461b09cadfd960454960a13db6a1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\9a40fbe743e596388f693ccc3ea4077e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\9a40fbe743e596388f693ccc3ea4077e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\87671bca736af61c7340cdd8e44b91f2\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\87671bca736af61c7340cdd8e44b91f2\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\84febceb465cde1b66f72cf997cd6a66\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\84febceb465cde1b66f72cf997cd6a66\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\687f751f77ea9dd5d23525581329873e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\687f751f77ea9dd5d23525581329873e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\b9a99864681356dd20068868d82fbd00\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\b9a99864681356dd20068868d82fbd00\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8f94fb1a659f59b96b45eaefbfe2f107\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8f94fb1a659f59b96b45eaefbfe2f107\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\117e7765044ec63b0440d73d558953cc\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\117e7765044ec63b0440d73d558953cc\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Dima\.gradle\caches\transforms-3\ad6ed8fbbeb1fdd0c3a097e17e83b865\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Dima\.gradle\caches\transforms-3\ad6ed8fbbeb1fdd0c3a097e17e83b865\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\b01acd08cf57a8c657198231dc1d1f4f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\b01acd08cf57a8c657198231dc1d1f4f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\7c2ebef0ebb75e6f8a5c529ae9e6fbd0\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\7c2ebef0ebb75e6f8a5c529ae9e6fbd0\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\cb1eb042ce76c81a18716df9eab0b15e\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\cb1eb042ce76c81a18716df9eab0b15e\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\877d538800b89b0ad42e155a2d501a64\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\877d538800b89b0ad42e155a2d501a64\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\16d4fa28e3bade80b4ef76b76b418366\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\16d4fa28e3bade80b4ef76b76b418366\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\a8c163e6acd636ef510c68b2b4d33281\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dima\.gradle\caches\transforms-3\a8c163e6acd636ef510c68b2b4d33281\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\147ec4c80ea567736310036b0c54bdbf\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\147ec4c80ea567736310036b0c54bdbf\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\439b67504422e139f1007b6f4fb8b243\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\439b67504422e139f1007b6f4fb8b243\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8b9c48a23a928ae3788f8f13897ce511\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\8b9c48a23a928ae3788f8f13897ce511\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\25016a5607858d9b3ae03765425170d8\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\25016a5607858d9b3ae03765425170d8\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\67e39bd5e61327f2e376e1ffefb0b35d\transformed\activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\67e39bd5e61327f2e376e1ffefb0b35d\transformed\activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\45e3788e397db62dc2d267c1d8d2413e\transformed\activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\45e3788e397db62dc2d267c1d8d2413e\transformed\activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\f51ee4b2a039f2f43f574e8bf1f7e5f8\transformed\activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\Dima\.gradle\caches\transforms-3\f51ee4b2a039f2f43f574e8bf1f7e5f8\transformed\activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\5cbc2f472025e2878f564f3efa71b61c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\5cbc2f472025e2878f564f3efa71b61c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\6a1e4b94839ad6e41b7e7e3b4730ac1b\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\6a1e4b94839ad6e41b7e7e3b4730ac1b\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\109c5cdbdca1535517da74b014fc0152\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\109c5cdbdca1535517da74b014fc0152\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\183688527126aa933e37eec3d2af0ca1\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\183688527126aa933e37eec3d2af0ca1\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\117dd43d54048291faed5cd60151826f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\117dd43d54048291faed5cd60151826f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\d3167d3bae220701c10b9b21104b8d5e\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\d3167d3bae220701c10b9b21104b8d5e\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\a659a842eb1251c99aac8cd9af4034f8\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\a659a842eb1251c99aac8cd9af4034f8\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\87c0365832f4e12ab1cf8a30b1c64343\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\87c0365832f4e12ab1cf8a30b1c64343\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d50754e6f858b531790b8b73b45619f8\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\d50754e6f858b531790b8b73b45619f8\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ee87ec70448aabb0f03430d4ba7c6847\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\ee87ec70448aabb0f03430d4ba7c6847\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\847e707ffeaf87898ab536c6c5e5a261\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\847e707ffeaf87898ab536c6c5e5a261\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\5605350f476e128708e4e67fca923b94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\5605350f476e128708e4e67fca923b94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dima\.gradle\caches\transforms-3\775cb3222bd3c3e2bb1c552e1f78cc85\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dima\.gradle\caches\transforms-3\775cb3222bd3c3e2bb1c552e1f78cc85\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\808a66f0e96307cad7c6c1a3af63828f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Dima\.gradle\caches\transforms-3\808a66f0e96307cad7c6c1a3af63828f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\b2666b32a9f69ad76532393415513d13\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\b2666b32a9f69ad76532393415513d13\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\Dima\.gradle\caches\transforms-3\acbeeb093385613fd439b7471ce9ccff\transformed\dagger-lint-aar-2.44\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\Dima\.gradle\caches\transforms-3\acbeeb093385613fd439b7471ce9ccff\transformed\dagger-lint-aar-2.44\AndroidManifest.xml:18:3-42
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dima\AndroidStudioProjects\VoiceText\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\556f58dc2c99aed4b04cc60d9509669a\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dima\.gradle\caches\transforms-3\eca8316120ad7bdf730a35df94814088\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Dima\.gradle\caches\transforms-3\7084b2d77805267e8dbbd2e89d981431\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Dima\.gradle\caches\transforms-3\b9cbd2975faed4078b7a0b306253c92a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\Dima\.gradle\caches\transforms-3\21801836c4ad725352933d6d915baad4\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#ru.brazhnik.voicetext.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#ru.brazhnik.voicetext.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Dima\.gradle\caches\transforms-3\8f54eb177d4fcf774caeb1b26f8e5bd8\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Dima\.gradle\caches\transforms-3\8297313505500321f644d8796618fe80\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
